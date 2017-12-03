@@ -1,5 +1,24 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_p1__37_1_1_interfaz_usuario.html" title="com.deusto.SPQ1718.P1\l_37.InterfazUsuario" alt="" coords="183,5,353,47"/>
-<area shape="rect" id="node4" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__19_1_1_interfaz_usuario.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_19.InterfazUsuario" alt="" coords="159,71,377,112"/>
-<area shape="rect" id="node5" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_proyecto___super_1_1_app.html" title="com.deusto.SPQ1718.Proyecto\l_Super.App" alt="" coords="165,136,371,177"/>
+<area shape="rect" id="node2" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__10_1_1_consulta_manual.html" title="Esta clase creará la ventana de visualización de los manuales existentes en la BD. Se llamará a los metodos get para visualizar los datos de la BD. " alt="" coords="159,5,377,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__27_1_1_login.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_27.Login" alt="" coords="159,71,377,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_p1__37_1_1_interfaz_usuario.html" title="com.deusto.SPQ1718.P1\l_37.InterfazUsuario" alt="" coords="183,136,353,177"/>
+<area shape="rect" id="node6" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__10_1_1_edicion_manual.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_10.EdicionManual" alt="" coords="159,789,377,831"/>
+<area shape="rect" id="node7" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__19_1_1_interfaz_usuario.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_19.InterfazUsuario" alt="" coords="159,855,377,896"/>
+<area shape="rect" id="node8" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__1_1_1_interfaz__14.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_1.Interfaz_14" alt="" coords="159,920,377,961"/>
+<area shape="rect" id="node9" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__1_1_1_interfaz___ins.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_1.Interfaz_Ins" alt="" coords="159,985,377,1027"/>
+<area shape="rect" id="node10" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__1_1_1_interfaz___obs.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_1.Interfaz_Obs" alt="" coords="159,1051,377,1092"/>
+<area shape="rect" id="node11" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__27_1_1_crear_cuenta.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_27.CrearCuenta" alt="" coords="159,1116,377,1157"/>
+<area shape="rect" id="node12" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__27_1_1_login2.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_27.Login2" alt="" coords="159,1181,377,1223"/>
+<area shape="rect" id="node13" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__43_1_1_admin_menu.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_43.AdminMenu" alt="" coords="159,1247,377,1288"/>
+<area shape="rect" id="node14" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__43_1_1_user_menu.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_43.UserMenu" alt="" coords="159,1312,377,1353"/>
+<area shape="rect" id="node15" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__6_1_1_valoracion_post_compra.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_6.ValoracionPostCompra" alt="" coords="159,1377,377,1419"/>
+<area shape="rect" id="node16" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__6_1_1_visualizacion_valoracion.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_6.VisualizacionValoracion" alt="" coords="159,201,377,243"/>
+<area shape="rect" id="node17" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__7_1_1_interfaz__34.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_7.Interfaz_34" alt="" coords="159,267,377,308"/>
+<area shape="rect" id="node18" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__7_1_1_interfaz_compra.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_7.InterfazCompra" alt="" coords="159,332,377,373"/>
+<area shape="rect" id="node19" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__8_1_1_interfaz_usuario.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_8.InterfazUsuario" alt="" coords="159,397,377,439"/>
+<area shape="rect" id="node20" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__9_1_1_i_estadistica_general.html" title="Te muestra estadisticas generales. " alt="" coords="159,463,377,504"/>
+<area shape="rect" id="node21" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__9_1_1_i_estadistica_producto.html" title="Te muestra estadisticas de producto concreto. " alt="" coords="159,528,377,569"/>
+<area shape="rect" id="node22" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__9_1_1_i_estadisticas.html" title="Permite elegir que tipo de estadisticas quieres ver. Te redirige IEstadisticaGeneral o a IEstadistica..." alt="" coords="159,593,377,635"/>
+<area shape="rect" id="node23" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_proyecto___super_1_1_app.html" title="com.deusto.SPQ1718.Proyecto\l_Super.App" alt="" coords="165,659,371,700"/>
+<area shape="rect" id="node24" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_proyecto___super_1_1_inicio.html" title="com.deusto.SPQ1718.Proyecto\l_Super.Inicio" alt="" coords="165,724,371,765"/>
 </map>

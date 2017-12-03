@@ -1,0 +1,7 @@
+<map id="com.deusto.SPQ1718.DSPQ1718P1_7.InterfazCompra" name="com.deusto.SPQ1718.DSPQ1718P1_7.InterfazCompra">
+<area shape="rect" id="node3" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__7_1_1_acceso_b_d__35.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_7.AccesoBD_35" alt="" coords="584,57,803,98"/>
+<area shape="rect" id="node4" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__1_1_1_acceso_b_d__13.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_1.AccesoBD_13" alt="" coords="305,82,524,123"/>
+<area shape="rect" id="node6" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__7_1_1_operacion_tarjeta.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_7.OperacionTarjeta" alt="" coords="305,163,524,205"/>
+<area shape="rect" id="node8" href="$classcom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__7_1_1_compra_tarjeta.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_7.CompraTarjeta" alt="" coords="584,186,803,227"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1deusto_1_1_s_p_q1718_1_1_d_s_p_q1718_p1__7_1_1_i_tarjeta.html" title="com.deusto.SPQ1718.DSPQ1718\lP1_7.ITarjeta" alt="" coords="5,163,224,205"/>
+</map>
